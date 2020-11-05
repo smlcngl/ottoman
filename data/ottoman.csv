@@ -1,0 +1,39 @@
+﻿no;sultan;babasi;annesi;lakabi;dogum;olum;dogum_yeri;tahta_cikis;tahtan_inis;taht_suresi;taht_cikis_yas;taht_inis_yas;olum_yas
+1;Osman Gazi;Ertugrul Gazi;Halime Hatun;;1/1/1258;8/1/1326;Sögüt;1/1/1299;1/1/1326;27;41;68;68
+2;Orhan Gazi;Osman Gazi;Malhun Hatun;;1/1/1281;1/1/1362;Sögüt;1/1/1326;1/1/1359;33;45;78;81
+3;I. Murad;Orhan Gazi;Nilüfer Hatun;;1/1/1326;6/28/1389;Bursa;1/1/1359;1/1/1389;30;33;63;63
+4;I. Bayezid;I. Murad;Gülçiçek Hatun;Yildirim Beyazit;1/1/1354;3/8/1403;Edirne;1/1/1389;1/1/1402;13;35;48;49
+5;Fetret Devri;;;;;;;1/1/1402;1/1/1413;11;0;0;0
+6;I. Mehmed;I. Bayezid;Devlet Hatun;Celebi Mehmet;1/1/1389;5/26/1421;Bursa;1/1/1413;1/1/1421;8;24;32;32
+7;II. Murad;I. Mehmed;unknown;;6/1/1404;2/3/1451;Amasya;1/1/1421;1/1/1451;30;16;46;46
+8;II. Mehmed;II. Murad;;Fatih Sultan Mehmed;3/29/1432;5/3/1481;;1/1/1451;1/1/1481;30;18;48;49
+9;II. Bayezid;II. Mehmed;;;12/3/1448;5/26/1512;;1/1/1481;1/1/1512;31;32;63;63
+10;I. Selim;II. Bayezid;;Yavuz Sultan Selim;10/10/1470;9/22/1520;;1/1/1512;1/1/1520;8;41;49;49
+11;I. Suleyman;I. Selim;Ayşe Hafsa Sultan;Kanunî Sultan Süleyman;11/6/1494;9/7/1566;Trabzon;9/30/1520;9/7/1566;45;25;71;71
+12;II. Selim;I. Suleyman;Hürrem Sultan;;5/28/1524;12/15/1574;Istanbul;9/24/1566;12/15/1574;8;42;50;50
+13;III. Murad;II. Selim;Afife Nurbanu Sultan;;7/4/1546;1/16/1595;Manisa;12/22/1574;1/16/1595;20;28;48;48
+14;III. Mehmed;III. Murad;Safiye Sultan;;5/26/1566;12/21/1603;Manisa;1/16/1595;12/21/1603;8;28;37;37
+15;I. Ahmed;III. Mehmed;Handan Sultan;;4/18/1590;11/22/1617;Manisa;12/21/1603;11/22/1617;13;13;27;27
+16;I. Mustafa;III. Mehmed;Valide Sultan;;1/1/1592;1/20/1639;Manisa;11/22/1617;2/26/1618;0;25;26;47
+17;II. Osman;I. Ahmed;Mahfiruz Hatice Sultan;Genc Osman;11/3/1604;5/20/1622;Istanbul;2/26/1618;5/18/1622;4;13;17;17
+18;IV. Murad;I. Ahmed;Kösem Sultan;;7/27/1612;2/8/1640;Istanbul;9/10/1623;2/8/1640;16;11;27;27
+19;Ibrahim;I. Ahmed;Kösem Sultan;;11/5/1615;8/18/1648;Istanbul;2/9/1640;8/8/1648;8;24;32;32
+20;IV. Mehmed;Ibrahim;Turhan Hatice Sultan;;1/2/1642;1/10/1693;Istanbul;8/8/1648;11/8/1687;39;6;45;51
+21;II. Suleyman;Ibrahim;Saliha Dilaşub Sultan;;4/15/1642;6/22/1691;Istanbul;11/8/1687;6/22/1691;3;45;49;49
+22;II. Ahmed;Ibrahim;"
+Hatice Muazzez Sultan";;2/25/1643;2/6/1695;Istanbul;6/22/1691;2/6/1695;3;48;51;51
+23;II. Mustafa;IV. Mehmed;Emetullah Râbi'a Gülnûş Sultan;;2/6/1664;12/29/1703;Istanbul;2/6/1695;8/22/1703;8;31;39;39
+24;III. Ahmed;IV. Mehmed;Emetullah Râbi'a Gülnûş Sultan;;12/30/1673;7/1/1736;Dobric;8/22/1703;10/1/1730;27;29;56;62
+25;I. Mahmud;II. Mustafa;Saliha Sultan;;8/2/1696;12/13/1754;Istanbul;9/30/1730;12/13/1754;24;34;58;58
+26;III. Osman;II. Mustafa;Şehsuvar Sultan;;1/2/1699;10/30/1757;Istanbul;12/13/1754;10/30/1757;2;55;58;58
+27;III. Mustafa;III. Ahmed;Emine Mihrişah Kadın;;1/28/1717;1/21/1774;Istanbul;10/31/1757;1/21/1774;16;40;56;56
+28;I. Abdulhamid;III. Ahmed;Rabia Şermi Kadın;;3/20/1725;4/7/1789;Istanbul;1/21/1774;4/7/1789;15;48;64;64
+29;III. Selim;III. Mustafa;Mihrişah Valide Sultan;;12/24/1761;7/28/1808;Istanbul;4/7/1789;5/29/1807;18;27;45;46
+30;IV. Mustafa;I. Abdulhamid;Ayşe Sineperver Sultan;;9/8/1779;11/17/1808;Istanbul;5/29/1807;7/28/1808;1;27;28;29
+31;II. Mahmud;I. Abdulhamid;Nakşidil Valide Sultan;;7/20/1785;7/1/1839;Istanbul;7/28/1808;7/1/1839;30;23;53;53
+32;Abdulmecid;II. Mahmud;Bezmialem Sultan;;4/25/1823;6/25/1861;Istanbul;7/2/1839;6/26/1861;21;16;38;38
+33;Abdulaziz;II. Mahmud;Pertevniyal Valide Sultan;;2/8/1830;6/4/1876;Istanbul;6/25/1861;5/30/1876;14;31;46;46
+34;V. Murad;Abdulmecid;Şevkefza Sultan;;9/21/1840;8/29/1904;Istanbul;5/30/1876;8/31/1876;0;35;35;63
+35;II. Abdulhamid;Abdulmecid;Tirimüjgan Kadınefendi;;9/21/1842;10.02.1918;Istanbul;1/1/1876;3289;33;33;67;74
+36;Mehmed Resad;Abdulmecid;Gülcemal Kadın Efendi;;11/2/1844;3.07.1918;Istanbul;4/27/1909;6759;9;64;74;65
+37;Mehmed Vahdeddin;Abdulmecid;Gülüstü Hanım;;2/2/1861;05/16/1926;Istanbul;6759;8341;4;57;61;65
